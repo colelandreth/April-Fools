@@ -1,0 +1,13 @@
+April Fools Day App
+
+Want to scan a site or use predetermined code to randomly
+select a prank.
+
+Button-like app w/randomizer
+
+will find bright color pallet
+
+check reddit for pranks
+
+use JS to make text appear and dissapear (like in calc app)
+
