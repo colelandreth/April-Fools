@@ -24,6 +24,10 @@ h2 {
 
 }
 
+h3 {
+    color: white;
+    padding-bottom: 20px;
+}
 button {
     background-color: rgb(170, 0, 105);
     border: none;
